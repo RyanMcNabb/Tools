@@ -1,4 +1,4 @@
-#This is a quick and dirty script to ingest a list of IPs to run a whoas. - Ryan McNabb
+#This is a quick and dirty script to ingest a list of Public IPs to run a whoas. - Ryan McNabb
 
 # Define the path to the input file containing the list of IP addresses
 $inputFilePath = "C:\path\to\your\iplist.txt"
